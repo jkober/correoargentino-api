@@ -1,5 +1,5 @@
 {
-  "name": "sergiomuro/correoargentino-api",
+  "name": "jkober/correoargentino-api",
   "type": "library",
   "description": "API SDK for Correo Argentino",
   "require": {
